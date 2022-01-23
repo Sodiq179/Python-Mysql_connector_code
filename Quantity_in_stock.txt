@@ -1,0 +1,13 @@
+                    Quantity in stock Report
+                    ----------------------------
+
+Product ID: ITM001, Product Name: Milo, Quantity in stock: 56
+
+Product ID: ITM002, Product Name: Sugar, Quantity in stock: 96
+
+Product ID: ITM003, Product Name: Lipton Tea, Quantity in stock: 13
+
+Product ID: ITM004, Product Name: Bournvita, Quantity in stock: 34
+
+Product ID: ITM005, Product Name: Milk, Quantity in stock: 20
+
